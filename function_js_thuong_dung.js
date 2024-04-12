@@ -1,5 +1,4 @@
 // Hàm thay thế ký tự trong chuỗi
-// vd: 
 let date = '09-04-1999'
 let result = ''
 result = date.replace(/-/, "/")
